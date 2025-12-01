@@ -83,3 +83,12 @@ All charts and the PDF report are in the `reports/` folder:
 - profit_vs_sales.png  
 - Sales_Report.pdf  
 
+
+
+## 👤 About Me
+
+Hi, I’m Angelin Abisha, a second-year AI & Data Science student.  
+I’m passionate about building data-driven applications, analyzing trends, and developing machine learning models.  
+Currently learning advanced machine learning, Python, and deploying interactive dashboards with Streamlit.
+
+
