@@ -1,0 +1,6 @@
+OrderID,CustomerName,City,State,Category,SubCategory,Sales,Quantity,Profit,OrderDate
+1001,John Miller,New York,NY,Technology,Phones,500,3,120,2024-01-12
+1002,Sarah Smith,Los Angeles,CA,Furniture,Chairs,250,2,40,2024-02-10
+1003,Michael Brown,Chicago,IL,Office Supplies,Paper,35,5,5,2024-03-01
+1004,Linda Davis,Houston,TX,Technology,Laptops,1200,1,180,2024-03-18
+1005,Daniel White,Phoenix,AZ,Furniture,Tables,450,1,-50,2024-04-02
